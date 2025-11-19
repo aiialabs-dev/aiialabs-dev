@@ -1,4 +1,4 @@
-# Transformando o futuro do desenvolvimento humano com inteligência artificial
+# Assistentes corporativos, times fluentes e estratégias inteligentes
 
 ## A Nossa História
 
@@ -10,10 +10,9 @@ Na verdade, a inteligência artificial não era apenas uma ferramenta para aumen
 
 Conforme a LIA continuava a evoluir e expandir seu alcance, tornava-se um farol de esperança e inspiração para aqueles que buscavam aprimorar suas relações, tanto profissionais quanto pessoais. Com um compromisso inabalável de utilizar a inteligência artificial como uma ferramenta para o desenvolvimento.
 
-## O Futuro em Assistentes Inteligentes
+## Nosso Propósito
 
-> "A voz é a nova interface que conecta humanos e tecnologia, tornando a comunicação mais natural e intuitiva."
+> "Fazer da IA uma força que expande o potencial humano. Combinamos a sensibilidade de quem domina comportamento e cultura organizacional com a precisão de quem domina IA generativa."
 
 ---
 
-*Desenvolvido com ❤️ pela equipe aiiaLabs*
